@@ -23,7 +23,7 @@ xyz = [reshape(X,prod(size(X)),1) reshape(Y,prod(size(Y)),1) zeros(prod(size(Y))
 
 obs_data=struct('x',xyz(:,1),'y',xyz(:,2),'z',xyz(:,3),'v',v);
 
-faultnames=['SAF_SF_Pen_SCM_SJB.msh', ' '];
+faultnames=['SAF_SF_Pen_SCM_SJB.msh'];
 
 faults=ReadPatches(faultnames);
 
