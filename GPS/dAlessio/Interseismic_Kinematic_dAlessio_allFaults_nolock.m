@@ -1,7 +1,7 @@
 addpath(genpath('../../Gmsh'))
 addpath(genpath('/data/cees/aron/bin/matlab'))
 
-slip_creep_vec=[0.0 2.7, 6.6, 4.0, 6.2, 12.9, 6.9, 5.4, 5.4, 4.5, 3.0, 10.1, 3.6].*-1e-6;
+slip_creep_vec=[0.0, 2.7, 6.6, 4.0, 6.2, 12.9, 6.9, 5.4, 5.4].*-1e-6;
 
 %gps_file='obs_data_gps.txt';
 
