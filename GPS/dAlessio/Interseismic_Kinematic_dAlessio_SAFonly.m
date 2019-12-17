@@ -35,7 +35,7 @@ for i=1:length(faults.nEl)
     d(begs(i):ends(i), :) = repmat([slip_creep_vec(i) 0 0], faults.nEl(i), 1); % Assign [strike-slip 0 0] as the magnitude of boundary conditions to faults
 end
 
-d = [17.1 0 0.2;
+d_SAF = [17.1 0 0.2;
      17.1 0 0.2;
      16.8 0 3.3;
      16.8 0 3.3;
@@ -69,6 +69,8 @@ d = [17.1 0 0.2;
      16.9 0 2.5;
      20.2 0 -1.9;
      20.2 0 -1.9;] * -1E-6;
+
+d(1:length(d_SAF),:) = d_SAF;
 
 d(:,3) = 0.0;
 
