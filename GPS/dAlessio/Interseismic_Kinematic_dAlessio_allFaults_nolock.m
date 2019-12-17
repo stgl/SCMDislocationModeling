@@ -93,14 +93,14 @@ set(gca,'ydir','normal');axis equal;axis image
 
 figure(1)
 saveas(gcf,strcat(base_filename, '3D.eps'),'epsc');
-savefig(gcf,strcat(base_filename,'3D.fig');
+savefig(gcf,strcat(base_filename,'3D.fig'));
 
 figure(2)
 saveas(gcf,strcat(base_filename, 'quiver.eps'),'epsc');
-savefig(gcf,strcat(base_filename,'quiver.fig');
+savefig(gcf,strcat(base_filename,'quiver.fig'));
 
 figure(3)
 saveas(gcf,strcat(base_filename, 'UZ.eps'),'epsc');
-savefig(gcf,strcat(base_filename,'UZ.fig');
+savefig(gcf,strcat(base_filename,'UZ.fig'));
 
 save(strcat(base_filename,'results'),'X','Y','UX','UY','UZ');
