@@ -1,0 +1,217 @@
+top - 08:09:04 up 54 days, 22:55,  9 users,  load average: 9.88, 9.90, 10.57
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 46.3%us, 13.9%sy,  9.8%ni, 29.4%id,  0.2%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 119827212k used, 409506872k free,   144460k buffers
+Swap: 131071992k total, 82130032k used, 48941960k free,  5149028k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 52.1g 514m  99m S 197.6  0.1   0:39.83 MATLAB           
+
+
+top - 08:19:04 up 54 days, 23:05,  9 users,  load average: 13.82, 11.82, 11.20
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 40.2%us, 17.5%sy,  0.0%ni, 41.9%id,  0.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 125191780k used, 404142304k free,   145136k buffers
+Swap: 131071992k total, 82130024k used, 48941968k free,  5149084k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 55.4g 3.7g  99m S 200.2  0.7  20:41.52 MATLAB           
+
+
+top - 08:29:04 up 54 days, 23:15,  9 users,  load average: 11.98, 11.94, 11.50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 41.1%us, 17.1%sy,  0.0%ni, 41.4%id,  0.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 131288248k used, 398045836k free,   145864k buffers
+Swap: 131071992k total, 82130024k used, 48941968k free,  5149112k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 58.6g 6.8g  99m S 197.8  1.4  40:28.38 MATLAB           
+
+
+top - 08:39:04 up 54 days, 23:25,  9 users,  load average: 11.17, 11.79, 11.62
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 41.2%us, 18.3%sy,  0.0%ni, 40.0%id,  0.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 141414800k used, 387919284k free,   146436k buffers
+Swap: 131071992k total, 82130024k used, 48941968k free,  5149160k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 61.8g  10g  99m S 197.8  2.0  60:15.28 MATLAB           
+
+
+top - 08:49:04 up 54 days, 23:35,  9 users,  load average: 12.33, 12.28, 11.90
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 41.8%us, 18.3%sy,  0.0%ni, 39.4%id,  0.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 149475152k used, 379858932k free,   147048k buffers
+Swap: 131071992k total, 82130024k used, 48941968k free,  5149208k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 65.0g  13g  99m S 197.9  2.6  80:02.64 MATLAB           
+
+
+top - 08:59:04 up 54 days, 23:45,  9 users,  load average: 12.75, 12.88, 12.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 44.1%us, 18.8%sy,  0.0%ni, 36.5%id,  0.0%wa,  0.0%hi,  0.5%si,  0.0%st
+Mem:  529334084k total, 160172448k used, 369161636k free,   147704k buffers
+Swap: 131071992k total, 82130020k used, 48941972k free,  5149276k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 68.3g  16g  99m S 197.7  3.3  99:49.27 MATLAB           
+
+
+top - 09:09:04 up 54 days, 23:55,  9 users,  load average: 13.86, 13.41, 12.89
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 47.3%us, 20.0%sy,  0.0%ni, 32.2%id,  0.0%wa,  0.0%hi,  0.5%si,  0.0%st
+Mem:  529334084k total, 170952224k used, 358381860k free,   148372k buffers
+Swap: 131071992k total, 82130016k used, 48941976k free,  5149336k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 71.3g  19g  99m S 197.7  3.9 119:35.69 MATLAB           
+
+
+top - 09:19:04 up 55 days, 5 min, 10 users,  load average: 11.72, 12.89, 12.98
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 45.5%us, 19.7%sy,  0.0%ni, 34.1%id,  0.1%wa,  0.0%hi,  0.5%si,  0.0%st
+Mem:  529334084k total, 226029708k used, 303304376k free,   148860k buffers
+Swap: 131071992k total, 82130008k used, 48941984k free,  5145228k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 74.5g  22g  99m S 197.7  4.5 139:21.86 MATLAB           
+
+
+top - 09:29:05 up 55 days, 15 min, 10 users,  load average: 10.76, 11.85, 12.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 42.5%us, 18.6%sy,  0.0%ni, 38.4%id,  0.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 287237248k used, 242096836k free,   149344k buffers
+Swap: 131071992k total, 82130008k used, 48941984k free,  5144252k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 77.7g  25g  99m S 197.9  5.1 159:09.45 MATLAB           
+
+
+top - 09:39:05 up 55 days, 25 min, 10 users,  load average: 12.17, 12.69, 12.66
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 45.1%us, 18.5%sy,  0.0%ni, 35.8%id,  0.1%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 361623508k used, 167710576k free,   149872k buffers
+Swap: 131071992k total, 82128616k used, 48943376k free,  5149472k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 80.9g  29g  99m S 197.8  5.8 178:56.69 MATLAB           
+
+
+top - 09:49:05 up 55 days, 35 min, 11 users,  load average: 12.71, 13.01, 12.88
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 47.1%us, 18.4%sy,  0.0%ni, 34.1%id,  0.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 407249244k used, 122084840k free,   150360k buffers
+Swap: 131071992k total, 82128560k used, 48943432k free,  5149540k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 84.1g  32g  99m S 197.8  6.4 198:43.56 MATLAB           
+
+
+top - 09:59:05 up 55 days, 45 min, 14 users,  load average: 12.96, 13.38, 13.13
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 48.9%us, 18.7%sy,  0.0%ni, 31.9%id,  0.0%wa,  0.0%hi,  0.5%si,  0.0%st
+Mem:  529334084k total, 391995432k used, 137338652k free,   151068k buffers
+Swap: 131071992k total, 82128552k used, 48943440k free,  5149676k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 87.1g  35g  99m S 197.5  7.0 218:28.82 MATLAB           
+
+
+top - 10:09:05 up 55 days, 55 min, 15 users,  load average: 17.27, 15.25, 14.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 54.6%us, 21.6%sy,  0.0%ni, 23.2%id,  0.0%wa,  0.0%hi,  0.6%si,  0.0%st
+Mem:  529334084k total, 422901408k used, 106432676k free,   151684k buffers
+Swap: 131071992k total, 82128532k used, 48943460k free,  5153356k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 90.1g  38g  99m S 195.8  7.6 238:04.10 MATLAB           
+
+
+top - 10:19:05 up 55 days,  1:05, 14 users,  load average: 15.49, 15.50, 14.74
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 55.8%us, 22.3%sy,  0.0%ni, 21.1%id,  0.0%wa,  0.0%hi,  0.7%si,  0.0%st
+Mem:  529334084k total, 427064404k used, 102269680k free,   152480k buffers
+Swap: 131071992k total, 82128520k used, 48943472k free,  5075704k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 93.0g  41g  99m S 195.3  8.2 257:36.15 MATLAB           
+
+
+top - 10:29:05 up 55 days,  1:15, 12 users,  load average: 15.70, 15.28, 14.99
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 54.5%us, 21.8%sy,  0.0%ni, 23.0%id,  0.0%wa,  0.0%hi,  0.6%si,  0.0%st
+Mem:  529334084k total, 443043152k used, 86290932k free,   152980k buffers
+Swap: 131071992k total, 82128496k used, 48943496k free,  5076832k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 96.0g  44g  99m S 195.6  8.8 277:10.05 MATLAB           
+
+
+top - 10:39:05 up 55 days,  1:25, 12 users,  load average: 14.33, 14.92, 14.94
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 54.2%us, 21.8%sy,  0.0%ni, 23.4%id,  0.0%wa,  0.0%hi,  0.6%si,  0.0%st
+Mem:  529334084k total, 480818968k used, 48515116k free,   153540k buffers
+Swap: 131071992k total, 82128484k used, 48943508k free,  5076076k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0 99.0g  47g  99m S 196.1  9.4 296:46.84 MATLAB           
+
+
+top - 10:49:05 up 55 days,  1:35, 13 users,  load average: 17.59, 16.06, 15.39
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 56.3%us, 22.5%sy,  0.0%ni, 20.5%id,  0.0%wa,  0.0%hi,  0.7%si,  0.0%st
+Mem:  529334084k total, 469641992k used, 59692092k free,   154136k buffers
+Swap: 131071992k total, 82128036k used, 48943956k free,  5076184k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0  101g  50g  99m S 194.5  9.9 316:14.18 MATLAB           
+
+
+top - 10:59:05 up 55 days,  1:45, 13 users,  load average: 26.61, 25.39, 20.16
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 31.8%us, 49.3%sy,  0.0%ni, 14.7%id,  3.6%wa,  0.0%hi,  0.5%si,  0.0%st
+Mem:  529334084k total, 528603468k used,   730616k free,     4068k buffers
+Swap: 131071992k total, 88226592k used, 42845400k free,   166296k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0  135g 119g 1060 S 106.5 23.7 326:53.51 MATLAB           
+
+
+top - 11:09:06 up 55 days,  1:55, 14 users,  load average: 28.46, 30.10, 25.12
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 12.9%us, 34.5%sy,  0.0%ni, 26.3%id, 26.0%wa,  0.0%hi,  0.3%si,  0.0%st
+Mem:  529334084k total, 528630280k used,   703804k free,     4292k buffers
+Swap: 131071992k total, 102011232k used, 29060760k free,    36952k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0  135g 126g  992 S 32.3 25.1 330:07.68 MATLAB            
+
+
+top - 11:19:06 up 55 days,  2:05, 14 users,  load average: 34.00, 32.55, 28.85
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s): 12.1%us, 29.6%sy,  0.0%ni, 15.8%id, 42.2%wa,  0.0%hi,  0.2%si,  0.0%st
+Mem:  529334084k total, 509220156k used, 20113928k free,     4824k buffers
+Swap: 131071992k total, 110648140k used, 20423852k free,   410820k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 75754 faron     20   0  119g 114g 2196 S 25.6 22.8 332:41.11 MATLAB            
+
+
+top - 11:29:06 up 55 days,  2:15, 17 users,  load average: 21.12, 31.78, 30.45
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+Cpu(s): 29.1%us, 54.0%sy,  0.0%ni, 15.5%id,  1.0%wa,  0.0%hi,  0.4%si,  0.0%st
+Mem:  529334084k total, 256732532k used, 272601552k free,     6512k buffers
+Swap: 131071992k total, 112032064k used, 19039928k free,   913048k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+
+
+top - 11:39:06 up 55 days,  2:25, 17 users,  load average: 14.17, 16.81, 22.85
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+Cpu(s): 46.5%us, 23.3%sy,  0.0%ni, 29.1%id,  0.4%wa,  0.0%hi,  0.8%si,  0.0%st
+Mem:  529334084k total, 291740840k used, 237593244k free,     8184k buffers
+Swap: 131071992k total, 111948732k used, 19123260k free,   946420k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+

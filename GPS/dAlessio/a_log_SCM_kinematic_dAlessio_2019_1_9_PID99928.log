@@ -1,0 +1,33 @@
+No MATLAB command specified
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >>  
+%%% BEM Kinematic SCM, dAlessio faults, BAVU GPS Stations %%%
+ 
+Date/time in Stanford= 2019 1 9 8 45 17.7828
+PID= 99928
+Grids loaded= obs_data_gps.txt & obs_data_grid.txt
+"v" parameter output structure= 3
+Nr of elem= 11610
+Nr of free parameters= 0
+Nr obs points= 1064 (gps= 196, grid= 868)
+Run kinematic interseismic dAlessio model...
+Saving G ic-matrix to workspace= false
+{Error using save
+Variable 'obs_shear_kine' not found.
+
+Error in Interseismic_Kinematic_dAlessio_cees (line 120)
+    save(filename,'obs_shear_kine')
+
+Error in run (line 91)
+evalin('caller', strcat(script, ';'));
+} 
+>> >> >> 
