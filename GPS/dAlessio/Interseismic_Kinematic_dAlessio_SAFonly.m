@@ -83,7 +83,6 @@ UX = reshape(u(:,1),nx,ny);
 UY = reshape(u(:,2),nx,ny);
 UZ = reshape(u(:,3),nx,ny);
 
-figure(1)
 meshview(faults.c, faults.v, d(:,1));
 hold on
 maxval = max(abs(UZ(:)));
@@ -91,10 +90,10 @@ imagesc(X(1,:),Y(:,1), UZ, [-maxval maxval]);
 colormap jet
 colorbar
 
-figure(2)
+figure
 quiver(X,Y,UX,UY);
 
-figure(3)
+figure
 imagesc(X(1,:),Y(:,1),UZ,[-maxval maxval]);
 colormap jet
 colorbar
