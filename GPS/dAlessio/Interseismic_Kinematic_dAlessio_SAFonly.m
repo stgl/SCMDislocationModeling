@@ -1,4 +1,4 @@
-addpath(genpath('/data/cees/hilley/SCM_Aron/Gmsh'))
+addpath(genpath('../../Gmsh'))
 addpath(genpath('/data/cees/aron/bin/matlab'))
 
 slip_creep_vec=[0.0].*-1e-6;
