@@ -7,6 +7,8 @@ slip_creep_vec=[0.0].*-1e-6;
 
 %xyz_gps=load(gps_file);
 
+v=3;
+
 x_min = 521.95;
 x_max = 633.82;
 y_min = 4072.72;
