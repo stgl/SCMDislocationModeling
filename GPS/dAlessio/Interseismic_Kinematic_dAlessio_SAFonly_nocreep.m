@@ -9,10 +9,10 @@ slip_creep_vec=[0.0].*-1e-6;
 
 v=3;
 
-x_min = 521.95;
-x_max = 633.82;
-y_min = 4072.72;
-y_max = 4206.88;
+x_min = 500;
+x_max = 680;
+y_min = 4040;
+y_max = 4220;
 
 dx = 0.5;
 [X,Y] = meshgrid([x_min:dx:x_max],[y_min:dx:y_max]);
@@ -92,6 +92,7 @@ colorbar
 
 figure
 quiver(X,Y,UX,UY);
+axis equal
 
 figure
 imagesc(X(1,:),Y(:,1),UZ,[-maxval maxval]);
