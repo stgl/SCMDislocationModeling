@@ -84,7 +84,7 @@ UY = reshape(u(:,2),nx,ny);
 UZ = reshape(u(:,3),nx,ny);
 
 figure(1)
-meshview(faults, d(:,1));
+meshview(faults.c, faults.v, d(:,1));
 hold on
 maxval = max(abs(UZ(:)));
 imagesc(X(1,:),Y(:,1), UZ, [-maxval maxval]);
